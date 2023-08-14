@@ -31,7 +31,7 @@ header .hero-section{
     display: flex;
     flex-direction: column;
     align-items: center;
-    background-image: url("/images/Header\ Background.png");
+    background-image: url("/images/Header Background.png");
     width: 100vw;
     min-height: 100vh;
     background-size: cover;
@@ -103,7 +103,7 @@ header .hero-content_essilor-logo img{
     /* FORM INPUTS */
 
     .main-section{
-        background-image: url("/images/Main\ Background.png");
+        background-image: url("/images/Main Background.png");
         width: 100vw;
         background-size: cover;
         background-position: center center;
